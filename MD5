@@ -1,0 +1,12 @@
+ac4390de5aa619d6ead268132fcf9cb3 *DESCRIPTION
+00837e0ffcbcb574e52f4eecbd249b01 *LICENSE
+ad7fed13a7597220f7d2ffb684f98639 *NAMESPACE
+2a97c59aadb9d2351991f7275e4de6a8 *R/fhirClient.R
+c6edecbba6d93bd2ff709b05aa3ce871 *R/requester.R
+4e7665576d9e2b301d35891162976ec4 *R/searchParams.R
+c818783d2b0c4eff1c878f4798397dde *R/searchParamsExtensions.R
+8a941516708c105adc145abaeaa61198 *man/fhirClient.Rd
+a7595d25435c1873a6d596e8879d6ffa *man/searchParams.Rd
+2e2c3016c33f4e982614ff6d33e639d0 *tests/testthat.R
+82d6cf9dd517fcd809d180b3df14ddc0 *tests/testthat/test-fhirClient.R
+c49b5a9100bca90aa1db34c615697746 *tests/testthat/test-searchParams.R
